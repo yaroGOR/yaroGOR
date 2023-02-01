@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal Portfolio Website with some funny 3D effects <br>🌱 I’m currently learning FullStack Software Engineer Career path at CodeAcademy<br>
+🔭 I’m currently working on Personal Portfolio Website with some funny 3D effects <br>🌱 I’m currently learning bakend and node.js at freecodecamp <br>
 
 
 ## 🌐 Socials:
